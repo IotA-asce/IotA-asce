@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IotA-asce
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning T-SQL
+- 🌱 I’m currently learning T-SQL and flutter
 - 💞️ I’m looking to collaborate on some flutter project
 <!-- - 📫 How to reach me ... -->
 
